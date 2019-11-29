@@ -66,3 +66,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+
+
+
+網站template:https://startbootstrap.com/themes/freelancer/ 
+在”關於我“中增加了可自動換頁的圖片 並在“程式分享”中增加“cards”功能
